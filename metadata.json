@@ -1,0 +1,11 @@
+{
+  "name": "HawkSpectra - Deepfake Detection & Forensic Suite",
+  "description": "Multimodal deepfake detection with Spatial & Frequency analysis, Hybrid CNN+CBAM, biological signals (rPPG), audio-video mismatch, Grad-CAM XAI, anonymous live telemetry, and 23-language support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
